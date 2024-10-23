@@ -16,7 +16,6 @@
 
 ### Однорядковий код
 
-```javascript
 console.log((function robot_dreams(robot_dreams, robot_dreams, robot_dreams) { return (robot_dreams === 0 || robot_dreams === 1) ? (robot_dreams = { robot_dreams, [robot_dreams / {}]: robot_dreams => robot_dreams.robot_dreams ? robot_dreams.robot_dreams-- * robot_dreams[robot_dreams / robot_dreams](robot_dreams) : -~robot_dreams })[robot_dreams / robot_dreams](robot_dreams) : 'Error: Parameter must be 0 or 1' })(...[, , 0]));
 
 Цей код базується на тому, що за означенням 0! = 1 та 1! = 1. Код запускається прямо в консолі і при зміні параметрів з 0 на 1 видає у будь-якому разі результат 1.
