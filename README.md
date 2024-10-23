@@ -41,4 +41,4 @@
 ## Однорядковий код:
 
 ```javascript
-console.log((function robot_dreams(robot_dreams, robot_dreams, robot_dreams) { return (robot_dreams === 0 || robot_dreams === 1) ? (robot_dreams = { robot_dreams, [robot_dreams / {}]: robot_dreams => robot_dreams.robot_dreams ? robot_dreams.robot_dreams-- * robot_dreams[robot_dreams / robot_dreams](robot_dreams) : -~robot_dreams })[robot_dreams / robot_dreams](robot_dreams) : 'Error: Parameter must be 0 or 1' })(...[, , 0]));```
+console.log((function robot_dreams(robot_dreams, robot_dreams, robot_dreams) { return (robot_dreams === 0 || robot_dreams === 1) ? (robot_dreams = { robot_dreams, [robot_dreams / {}]: robot_dreams => robot_dreams.robot_dreams ? robot_dreams.robot_dreams-- * robot_dreams[robot_dreams / robot_dreams](robot_dreams) : -~robot_dreams })[robot_dreams / robot_dreams](robot_dreams) : 'Error: Parameter must be 0 or 1' })(...[, , 0]));
