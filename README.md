@@ -2,7 +2,7 @@
 
 Напишіть однорядковий код, який доводить, що роботи ніколи не сплять, і навіть коли вони роблять вигляд, що сплять, вони все одно залишаються активними.
 
-# Перевірка активності роботів
+## Перевірка активності роботів
 
 Цей код перевіряє, чи активний робот, використовуючи механізм, що базується на значеннях, переданих у функцію.
 
@@ -41,4 +41,4 @@
 ## Однорядковий код:
 
 ```javascript
-console.log((function robot_dreams(robot_dreams, robot_dreams, robot_dreams) { return (robot_dreams === 0 || robot_dreams === 1) ? (robot_dreams = { robot_dreams, [robot_dreams / {}]: robot_dreams => robot_dreams.robot_dreams ? robot_dreams.robot_dreams-- * robot_dreams[robot_dreams / robot_dreams](robot_dreams) : -~robot_dreams })[robot_dreams / robot_dreams](robot_dreams) : 'Error: Parameter must be 0 or 1' })(...[, , 0]));
+console.log((function robot_dreams(robot_dreams, robot_dreams, robot_dreams) { return (robot_dreams === 0 || robot_dreams === 1) ? (robot_dreams = { robot_dreams, [robot_dreams / {}]: robot_dreams => robot_dreams.robot_dreams ? robot_dreams.robot_dreams-- * robot_dreams[robot_dreams / robot_dreams](robot_dreams) : -~robot_dreams })[robot_dreams / robot_dreams](robot_dreams) : 'Error: Parameter must be 0 or 1' })(...[, , 0]));```
